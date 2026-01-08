@@ -5,4 +5,4 @@ O trabalho foi realizado através de um ESP32 como microcontrolador, que em conj
 e seguindo o protocolo I2S permite gerar som de uma maneira mais fiel.
 Foi utilizado conhecimentos de logica de programação em C/C++, FreeRTOS e até mesmo a criação de um site feito em html que permite o usuário ter um feedback do seu progresso.
 
-https://youtu.be/L0N_faVM1Qg
+link do video no youtube do projeto: https://youtu.be/L0N_faVM1Qg
