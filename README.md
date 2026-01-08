@@ -1,2 +1,6 @@
 # TecladoEletronicoInterativo
-O projeto consiste em um teclado eletrônico que facilita o aprendizado de novas músicas, através de um interação divertida e lúdica com leds.
+O projeto tem como motivação facilitar a aprendizagem de novas músicas em um simples piano de uma oitava, 
+consistindo de um esquema de leds interativos que auxiliam as notas que devem ser tocadas no momento correto.
+O trabalho foi realizado através de um ESP32 como microcontrolador, que em conjunto com o MAX98357 um aplificador de audio
+e seguindo o protocolo I2S permite gerar som de uma maneira mais fiel.
+Foi utilizado conhecimentos de logica de programação, FreeRTOS e até mesmo a criação de um site feito html que permite o usuário ter um feedback do seu progresso.
